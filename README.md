@@ -9,3 +9,23 @@
 ---
 
 *Automatic sync powered by LeetHub-3.0.*
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0022-generate-parentheses](https://github.com/wyl91/leetcode/tree/main/0022-generate-parentheses/) | undefined |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0022-generate-parentheses](https://github.com/wyl91/leetcode/tree/main/0022-generate-parentheses/) | undefined |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0022-generate-parentheses](https://github.com/wyl91/leetcode/tree/main/0022-generate-parentheses/) | undefined |
+## 括号序列
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0022-generate-parentheses](https://github.com/wyl91/leetcode/tree/main/0022-generate-parentheses/) | undefined |
+<!---LeetCode Topics End-->
