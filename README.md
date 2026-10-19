@@ -15,6 +15,7 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/wyl91/leetcode/tree/main/0014-longest-common-prefix/) | undefined |
 | [0022-generate-parentheses](https://github.com/wyl91/leetcode/tree/main/0022-generate-parentheses/) | undefined |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -28,4 +29,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/wyl91/leetcode/tree/main/0022-generate-parentheses/) | undefined |
+## Trie
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/wyl91/leetcode/tree/main/0014-longest-common-prefix/) | undefined |
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/wyl91/leetcode/tree/main/0014-longest-common-prefix/) | undefined |
 <!---LeetCode Topics End-->
